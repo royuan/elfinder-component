@@ -1,0 +1,24 @@
+{
+  "name": "elfinder-component",
+  "version": "2.1.0",
+  "homepage": "https://github.com/royuan/elfinder-component",
+  "authors": [
+    "http://elfinder.org"
+  ],
+  "description": "file manager for web",
+  "main": [
+    "/js/elfinder.min.js",
+    "/css/elfinder.min.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": ">= 1.11.0"
+  }
+}
